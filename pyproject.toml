@@ -1,0 +1,13 @@
+[project]
+name = "arduino"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.3.1",
+    "pyqt6>=6.9.1",
+    "pyqtgraph>=0.13.7",
+    "pyserial>=3.5",
+    "scipy>=1.16.0",
+]
